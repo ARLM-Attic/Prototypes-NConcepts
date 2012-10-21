@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GoogleDesktopSearch">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\GoogleDesktopSearch.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\GoogleDesktopSearch.suo">
+</Property><Property Name="Date" Value="Thursday, February 08, 2007">
+</Property><Property Name="Time" Value="11:33 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GoogleDesktopSearch.sln" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\GoogleDesktopSearch.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GoogleDesktopSearch.suo" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\GoogleDesktopSearch.suo">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\GDSLibrary.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\Library\GDSLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\GDSLibrary.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\Library\GDSLibrary.csproj.user">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\Library\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\Library.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\Library\Library.cs">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\GDSLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GDSLibrary" Source="Library\GDSLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\GDSSampleApp.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\SampleConsoleApp\GDSSampleApp.csproj">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\GDSSampleApp.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\SampleConsoleApp\GDSSampleApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\app.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\SampleConsoleApp\app.cs">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\SampleConsoleApp\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\App.ico" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleDesktopSearch\Backup\SampleConsoleApp\App.ico">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\GDSSampleApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GDSSampleApp" Source="SampleConsoleApp\GDSSampleApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="googleye" Source="http://localhost/gdsweb/googleye.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="http://localhost/gdsweb/" Source="http://localhost/gdsweb/" Description="ERROR: Failed to backup website http://localhost/gdsweb/">
+</Event><Event ErrorLevel="0" Project="" Source="GoogleDesktopSearch.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GoogleDesktopSearch.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GDSLibrary" Source="Library\GDSLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GDSSampleApp" Source="SampleConsoleApp\GDSSampleApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

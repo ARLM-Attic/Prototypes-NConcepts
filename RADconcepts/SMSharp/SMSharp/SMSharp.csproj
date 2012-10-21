@@ -1,0 +1,144 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD338C8F-58C1-4E7B-8B54-22110EEECC6C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SMSharp</RootNamespace>
+    <AssemblyName>SMSharp</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAboutUs.Designer.cs">
+      <DependentUpon>FrmAboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFuelConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFuelConsole.Designer.cs">
+      <DependentUpon>FrmFuelConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJagLogViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJagLogViewer.Designer.cs">
+      <DependentUpon>FrmJagLogViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainMdiParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainMdiParent.Designer.cs">
+      <DependentUpon>FrmMainMdiParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNewOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNewOpen.Designer.cs">
+      <DependentUpon>FrmNewOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAboutUs.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmAboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFuelConsole.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmFuelConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJagLogViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJagLogViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainMdiParent.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmMainMdiParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNewOpen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmNewOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServerTool.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmServerTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSMLogViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmSMLogViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmServerTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServerTool.Designer.cs">
+      <DependentUpon>FrmServerTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSMLogViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSMLogViewer.Designer.cs">
+      <DependentUpon>FrmSMLogViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SMTools.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SMTools.Designer.cs">
+      <DependentUpon>SMTools.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

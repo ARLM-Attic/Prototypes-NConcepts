@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSLibrary", "Library\GDSLibrary.csproj", "{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSSampleApp", "SampleConsoleApp\GDSSampleApp.csproj", "{2F4FFD49-7E3B-4834-B890-1DE37488EA37}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "googleye", "http://localhost/gdsweb/googleye.csproj", "{EB52FFED-1087-4FCD-9C31-F2C97E90736D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug.ActiveCfg = Debug|.NET
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug.Build.0 = Debug|.NET
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release.ActiveCfg = Release|.NET
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release.Build.0 = Release|.NET
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug.ActiveCfg = Debug|.NET
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug.Build.0 = Debug|.NET
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release.ActiveCfg = Release|.NET
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release.Build.0 = Release|.NET
+		{EB52FFED-1087-4FCD-9C31-F2C97E90736D}.Debug.ActiveCfg = Debug|.NET
+		{EB52FFED-1087-4FCD-9C31-F2C97E90736D}.Debug.Build.0 = Debug|.NET
+		{EB52FFED-1087-4FCD-9C31-F2C97E90736D}.Release.ActiveCfg = Release|.NET
+		{EB52FFED-1087-4FCD-9C31-F2C97E90736D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

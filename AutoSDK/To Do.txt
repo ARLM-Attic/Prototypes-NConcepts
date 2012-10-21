@@ -1,0 +1,4 @@
+
+to do for SolutionLaucher:
+
+Tool -> stripe vss information from projects

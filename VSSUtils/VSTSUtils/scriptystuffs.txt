@@ -1,0 +1,297 @@
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank.cpp: 0 local,
+25 server, 0 both, and 0 conflicting
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank.cpp a
+s AcceptMerge
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Getting Tank.cpp
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank_BaseCE.vcp: 0
+local, 8 server, 0 both, and 0 conflicting
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank_BaseC
+E.vcp as AcceptMerge
+Getting Tank_BaseCE.vcp
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank_BaseNT.dsp: 0
+local, 3 server, 0 both, and 0 conflicting
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank_BaseN
+T.dsp as AcceptMerge
+Getting Tank_BaseNT.dsp
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\TankDevice.cpp: 0 l
+ocal, 14 server, 0 both, and 0 conflicting
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\TankDevice
+.cpp as AcceptMerge
+Getting TankDevice.cpp
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /author:Sapough, Kevin /comment:("ISD / Fuel Re
+conciliation functionality WIT 56984")
+There is no pending change for 'Kevin'.
+No files checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("Ksapough: ISD / Fuel Reconciliation
+functionality WIT 569846")
+No files checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("Ksapough: ISD / Fuel Reconciliation
+functionality WIT 569846") /noprompt
+Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Checking in merge, edit: Tank.cpp
+Checking in merge, edit: Tank_BaseCE.vcp
+Checking in merge, edit: Tank_BaseNT.dsp
+Checking in merge, edit: TankDevice.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_HProtocol:
+Checking in merge: HTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Petrovend:
+Checking in merge: PTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350:
+Checking in merge: Veeder350Tank.cpp
+Checking in merge: Veeder350Tank.h
+Checking in merge: Veeder350TankDevice.cpp
+
+Branches\3.1.0285\Include:
+Checking in merge: TankDevice.h
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_HProtocol/HTank.cpp' has a pending merge conflict, run resolve before checki
+ng in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Petrovend/PTank.cpp' has a pending merge conflict, run resolve before checki
+ng in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Include/TankDevice.h'
+has a pending merge conflict, run resolve before checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350Tank.cpp' has a pending merge conflict, run resolve befor
+e checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350Tank.h' has a pending merge conflict, run resolve before
+checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350TankDevice.cpp' has a pending merge conflict, run resolve
+ before checking in.
+
+TF10141: No files checked in: resolve the conflicts and try again.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("Ksapough: ISD / Fuel Reconciliation
+functionality WIT 569846")
+Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Checking in merge, edit: Tank.cpp
+Checking in merge, edit: Tank_BaseCE.vcp
+Checking in merge, edit: Tank_BaseNT.dsp
+Checking in merge, edit: TankDevice.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_HProtocol:
+Checking in merge: HTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Petrovend:
+Checking in merge: PTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350:
+Checking in merge: Veeder350Tank.cpp
+Checking in merge: Veeder350Tank.h
+Checking in merge: Veeder350TankDevice.cpp
+
+Branches\3.1.0285\Include:
+Checking in merge: TankDevice.h
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_HProtocol/HTank.cpp' has a pending merge conflict, run resolve before checki
+ng in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Petrovend/PTank.cpp' has a pending merge conflict, run resolve before checki
+ng in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Include/TankDevice.h'
+has a pending merge conflict, run resolve before checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350Tank.cpp' has a pending merge conflict, run resolve befor
+e checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350Tank.h' has a pending merge conflict, run resolve before
+checking in.
+Conflict: TF14080: The item '$/Jag_Test/Branches/3.1.0285/Devices/TankMonitors/T
+ank_Veeder350/Veeder350TankDevice.cpp' has a pending merge conflict, run resolve
+ before checking in.
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_HProtocol\HTank
+.cpp as AcceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_HProtocol:
+Getting HTank.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Petrovend\PTank
+.cpp as AcceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Petrovend:
+Getting PTank.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350\Veede
+r350Tank.cpp as AcceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350:
+Getting Veeder350Tank.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350\Veede
+r350Tank.h as AcceptTheirs
+Getting Veeder350Tank.h
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350\Veede
+r350TankDevice.cpp as AcceptTheirs
+Getting Veeder350TankDevice.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Include\TankDevice.h as AcceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Include:
+Getting TankDevice.h
+
+No files checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("Ksapough: ISD / Fuel Reconciliation
+functionality WIT 569846")
+Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Checking in merge, edit: Tank.cpp
+Checking in merge, edit: Tank_BaseCE.vcp
+Checking in merge, edit: Tank_BaseNT.dsp
+Checking in merge, edit: TankDevice.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_HProtocol:
+Checking in merge, edit: HTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Petrovend:
+Checking in merge, edit: PTank.cpp
+
+Branches\3.1.0285\Devices\TankMonitors\Tank_Veeder350:
+Checking in merge, edit: Veeder350Tank.cpp
+Checking in merge, edit: Veeder350Tank.h
+Checking in merge, edit: Veeder350TankDevice.cpp
+
+Branches\3.1.0285\Include:
+Checking in merge, edit: TankDevice.h
+
+Changeset #108969 checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" merg
+e /version:108008~108008 /force patches/Jag3_3.1.0285 /baseless Branches/3.1.028
+5 /recursive
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/TankMonitors/Ta
+nk_Base/Tank.cpp;C108008~C108008 -> $/Jag_Test/Branches/3.1.0285/Devices/TankMon
+itors/Tank_Base/Tank.cpp;C108969
+
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank.cpp: 2 local,
+0 server, 0 both, and 0 conflicting
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base\Tank.cpp a
+s AcceptTheirs
+C:\Jag_Test\Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Replacing Tank.cpp
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("Ksapough: ISD / Fuel Reconciliation
+functionality WIT 569846")
+Branches\3.1.0285\Devices\TankMonitors\Tank_Base:
+Checking in merge, edit: Tank.cpp
+
+Changeset #108970 checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" merg
+e /version:108017~108031 /force patches/Jag3_3.1.0285 /baseless Branches/3.1.028
+5 /recursive
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/ICR_
+Wayne/WayneEncryptionDevice.cpp;C108017~C108017 -> $/Jag_Test/Branches/3.1.0285/
+Devices/Dispensers/ICR_Wayne/WayneEncryptionDevice.cpp;C108965
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/ICR_
+Wayne/WayneEncryptionDevice.h;C108017~C108019 -> $/Jag_Test/Branches/3.1.0285/De
+vices/Dispensers/ICR_Wayne/WayneEncryptionDevice.h;C108965
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/ICR/Icarus/DefaultTrans
+action.cpp;C108030~C108031 -> $/Jag_Test/Branches/3.1.0285/ICR/Icarus/DefaultTra
+nsaction.cpp;C108965
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/Fuel
+_Gilbarco/GilbarcoPump.h;C108024~C108026 -> $/Jag_Test/Branches/3.1.0285/Devices
+/Dispensers/Fuel_Gilbarco/GilbarcoPump.h;C108965
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/Fuel
+_Gilbarco/GilbarcoPump.cpp;C108024~C108026 -> $/Jag_Test/Branches/3.1.0285/Devic
+es/Dispensers/Fuel_Gilbarco/GilbarcoPump.cpp;C108965
+Conflict (merge, edit): $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/ICR_
+Base/DCB.cpp;C108018~C108020 -> $/Jag_Test/Branches/3.1.0285/Devices/Dispensers/
+ICR_Base/DCB.cpp;C108965
+merge: $/Jag_Test/patches/Jag3_3.1.0285/ICR;C108029~C108029 -> $/Jag_Test/Branch
+es/3.1.0285/ICR;C108965
+merge: $/Jag_Test/patches/Jag3_3.1.0285/Devices/Dispensers/Fuel_Gilbarco;C108023
+~C108023 -> $/Jag_Test/Branches/3.1.0285/Devices/Dispensers/Fuel_Gilbarco;C10896
+5
+merge: $/Jag_Test/patches/Jag3_3.1.0285/ICR/Icarus;C108029~C108029 -> $/Jag_Test
+/Branches/3.1.0285/ICR/Icarus;C108965
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\Fuel_Gilbarco\Gilbarco
+Pump.cpp as AcceptTheirs
+C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\Fuel_Gilbarco:
+Getting GilbarcoPump.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\Fuel_Gilbarco\Gilbarco
+Pump.h as AcceptTheirs
+Getting GilbarcoPump.h
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\ICR_Base\DCB.cpp as Ac
+ceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\ICR_Base:
+Getting DCB.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\ICR_Wayne\WayneEncrypt
+ionDevice.h as AcceptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\ICR_Wayne:
+Getting WayneEncryptionDevice.h
+Resolved C:\Jag_Test\Branches\3.1.0285\Devices\Dispensers\ICR_Wayne\WayneEncrypt
+ionDevice.cpp as AcceptTheirs
+Getting WayneEncryptionDevice.cpp
+Resolved C:\Jag_Test\Branches\3.1.0285\ICR\Icarus\DefaultTransaction.cpp as Acce
+ptTheirs
+
+C:\Jag_Test\Branches\3.1.0285\ICR\Icarus:
+Getting DefaultTransaction.cpp
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("TSnyder:WIT#571112 - DCB DC not rese
+nding command when any data received. WIT#571113 - DCB DC does not process escap
+e characters in checksum. I changed ResendLastCommand() to rely on the ICRComms
+object rather than its own internal buffer that was getting cleared out when new
+ data was received, even when the new data was not a complete message. I also ma
+de a small fix to FindMessage() so that escape characters are correctly processe
+d.  This problem was originally found in the Wayne ICR DC.  Since DCB uses a ver
+y similar function it needs the fix too. CR: KJoshi") /force /noprompt
+Unrecognized command option 'force'.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" chec
+kin Branches\3.1.0285 /recursive /comment:("TSnyder:WIT#571112 - DCB DC not rese
+nding command when any data received. WIT#571113 - DCB DC does not process escap
+e characters in checksum. I changed ResendLastCommand() to rely on the ICRComms
+object rather than its own internal buffer that was getting cleared out when new
+ data was received, even when the new data was not a complete message. I also ma
+de a small fix to FindMessage() so that escape characters are correctly processe
+d.  This problem was originally found in the Wayne ICR DC.  Since DCB uses a ver
+y similar function it needs the fix too. CR: KJoshi") /noprompt
+Branches\3.1.0285:
+Checking in merge: ICR
+
+Branches\3.1.0285\Devices\Dispensers:
+Checking in merge: Fuel_Gilbarco
+
+Branches\3.1.0285\Devices\Dispensers\Fuel_Gilbarco:
+Checking in merge, edit: GilbarcoPump.cpp
+Checking in merge, edit: GilbarcoPump.h
+
+Branches\3.1.0285\Devices\Dispensers\ICR_Base:
+Checking in merge, edit: DCB.cpp
+
+Branches\3.1.0285\Devices\Dispensers\ICR_Wayne:
+Checking in merge, edit: WayneEncryptionDevice.cpp
+Checking in merge, edit: WayneEncryptionDevice.h
+
+Branches\3.1.0285\ICR:
+Checking in merge: Icarus
+
+Branches\3.1.0285\ICR\Icarus:
+Checking in merge, edit: DefaultTransaction.cpp
+
+Changeset #108971 checked in.
+
+C:\Jag_Test>"C:\Program Files\Microsoft Visual Studio 8\Common7\IDE\tf.exe" merg
+e /version:108048~108048 /force patches/Jag3_3.1.0285 /baseless Branches/3.1.028
+5 /recursive
+There are no changes to merge.
+
+C:\Jag_Test>

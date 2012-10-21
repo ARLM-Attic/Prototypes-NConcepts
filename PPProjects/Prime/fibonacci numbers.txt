@@ -1,0 +1,7 @@
+Function fibon(n:Integer):Integer;
+Begin
+	If n<=1 THEN
+		fibon :=1
+	ELSE
+		fibon := fibon(n-1) + fibon(n-2)
+END;

@@ -1,0 +1,17 @@
+CI, "\\portal.radiant.com\sites\pcsnadevci\Shared Documents"
+DevCorner, "\\portal.radiant.com\sites\PCSDevCorner\Shared Documents"
+EPS, "\\portal.radiant.com\sites\EPS\Shared Documents"
+Jag, "\\portal.radiant.com\sites\PCS Domestic\Forecourt\Shared Documents"
+
+worked with: :)
+http://portal.radiant.com/sites/PCS%20Domestic/Forecourt/Shared%20Documents/
+
+PCS NA Version 6 Management, "\\portal.radiant.com\sites\v6mgmt\Shared Documents"
+PCS Consulting, "\\portal.radiant.com\sites\PCSConsulting\Technical Documentation"
+		"\\portal.radiant.com\sites\PCSConsulting\Shared Documents"
+		
+Product Development, "\\portal.radiant.com\sites\PCSVersion6\Shared Documents"
+RPOS6e, "\\portal.radiant.com\sites\RPOS6e\Shared Documents"
+RPOS6.7C1, "\\portal.radiant.com\sites\PCSGPRT\6.7C1\Documents"
+RSM, "\\portal.radiant.com\sites\RSM\Product Documentation"
+     "\\portal.radiant.com\sites\RSM\licenses"

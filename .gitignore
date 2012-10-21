@@ -1,0 +1,37 @@
+!.gitignore
+
+# iOS Ignores
+.DS_Store
+*.swp
+*~.nib
+
+build/
+Target/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+*.mode1v3
+*mode2v3
+
+xcuserdata
+
+#MonoTouch Ignores
+*.userprefs
+bin/
+obj/
+
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
+*/_ReSharper.*/*
+*.user
+*.suo
+*.pidb
+*.userprefs
+#*.Designer.cs
+#*.designer.cs
+*.DS_Store
+*.db

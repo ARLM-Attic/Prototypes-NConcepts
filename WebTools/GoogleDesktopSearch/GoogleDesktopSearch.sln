@@ -1,0 +1,72 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSLibrary", "Library\GDSLibrary.csproj", "{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSSampleApp", "SampleConsoleApp\GDSSampleApp.csproj", "{2F4FFD49-7E3B-4834-B890-1DE37488EA37}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://devsearch/gdsweb/", "http://devsearch/gdsweb", "{A3F1B944-F6F3-4621-9992-7565B040D2A6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "true"
+		ProjectReferences = "{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}|GDSLibrary.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/gdsweb"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\temp\@tmp\VWDWebCache\devsearch_gdsweb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\gdsweb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/gdsweb"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\temp\@tmp\VWDWebCache\devsearch_gdsweb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\gdsweb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release|.NET.ActiveCfg = Release|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{289FA0FC-3FC6-4B1A-BF29-D9263463E8BD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release|.NET.ActiveCfg = Release|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2F4FFD49-7E3B-4834-B890-1DE37488EA37}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Debug|.NET.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Debug|.NET.Build.0 = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Release|.NET.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Release|.NET.Build.0 = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{A3F1B944-F6F3-4621-9992-7565B040D2A6}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

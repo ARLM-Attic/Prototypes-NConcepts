@@ -1,0 +1,37 @@
+DesFolder
+E:\Library\Jag_SharePoint
+
+
+CI
+http://portal.radiant.com/sites/pcsnadevci/Shared Documents
+
+DevCorner
+http://portal.radiant.com/sites/PCSDevCorner/Shared Documents
+
+Eps
+http://portal.radiant.com/sites/EPS/Shared Documents
+
+Jag
+http://portal.radiant.com/sites/PCS Domestic/Forecourt/Shared Documents
+
+PCS NA Version 6 Management
+http://portal.radiant.com/sites/v6mgmt/Shared Documents
+
+PCS Consulting
+http://portal.radiant.com/sites/PCSConsulting/Technical Documentation
+http://portal.radiant.com/sites/PCSConsulting/Shared Documents
+
+Product Development
+http://portal.radiant.com/sites/PCSVersion6/ProductDevelopment\Shared Documents
+
+RPOS6e
+http://portal.radiant.com/sites/RPOS6e/Shared Documents
+
+RPOS6.7C1
+http://portal.radiant.com/sites/PCSGPRT/6.7C1/Documents
+
+RSM
+http://portal.radiant.com/sites/RSM/Product Documentation
+http://portal.radiant.com/sites/RSM/licenses
+
+

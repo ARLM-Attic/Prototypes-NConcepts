@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GoogleSearch">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\GoogleSearch.sln">
+</Property><Property Name="Date" Value="Thursday, February 08, 2007">
+</Property><Property Name="Time" Value="15:26:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleSearch.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\GoogleSearch.csproj">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleDesktopSearch.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\GoogleDesktopSearch.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleSearchFactory.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\GoogleSearchFactory.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleSearchResult.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\GoogleSearchResult.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleWebSearch.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\GoogleWebSearch.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="IGoogleSearch.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\IGoogleSearch.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="Web References\Google\Reference.cs" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\Web References\Google\Reference.cs">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="Web References\Google\GoogleSearch.wsdl" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\Web References\Google\GoogleSearch.wsdl">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="Web References\Google\Reference.map" Description="File successfully backed up as C:\Documents and Settings\dromischer\My Documents\Visual Studio 2005\Projects\GoogleSearch-Source-0.1-dotnetwrapper\Backup\Web References\Google\Reference.map">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleSearch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GoogleSearch" Source="GoogleSearch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GoogleSearch" Source="GoogleSearch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

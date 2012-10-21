@@ -1,0 +1,14 @@
+how to get rid of those annoying VSS popups:
+
+iterate thru all the .dsp files
+and remove the lines that contain this
+
+# PROP Scc_ProjName ""$/PlatformSystems5.0/ACP/ACPHelper", SANAAAAA"
+# PROP Scc_LocalPath "."
+
+so as soon as a line contains this:
+# PROP Scc_ProjName
+or 
+# PROP Scc_LocalPath
+
+->delete it!!!
